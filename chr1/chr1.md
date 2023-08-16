@@ -8,19 +8,17 @@
 |1.4|２進法|[A04]()|[B04]()|
 |1.5|チャレンジ問題|[A05]()||
 
-####　コラム
+###　コラム
 ビット演算とビット全探索
 
 
 参考：[アルゴ式 ビット演算](https://algo-method.com/courses/5)
 
-- ビット演算系
-
-
+### ビット演算系
 |問題|解答コード|
 |:--:|:--:|
-|[スイッチクエリ(1)]()|[コード](https://github.com/kaneda05/algo/blob/main/3/bit/4/7.py)|
-|[スイッチクエリ(2)]()|[コード](https://github.com/kaneda05/algo/blob/main/3/bit/4/8.py)|
+|[スイッチクエリ(1)](https://algo-method.com/tasks/1045)|[コード](https://github.com/kaneda05/algo/blob/main/3/bit/4/7.py)|
+|[スイッチクエリ(2)](https://algo-method.com/tasks/1046)|[コード](https://github.com/kaneda05/algo/blob/main/3/bit/4/8.py)|
 
 
 この2問でビット全探索で必要な条件式が出てくる
