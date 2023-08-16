@@ -2,13 +2,14 @@
 
 |No|問題|A|B|
 |:--:|:--:|:--:|:--:|
-|1.1|導入問題|[A01]()|[B01]()|
-|1.2|全探索(1)|[A02]()|[B02]()|
-|1.3|全探索(2)|[A03]()|[B03-1]()/[B03-2]()|
-|1.4|２進法|[A04]()|[B04]()|
-|1.5|チャレンジ問題|[A05]()||
+|1.1|導入問題|[A01](https://github.com/kaneda05/iron-rule/blob/main/chr1/A01.py)|[B01](https://github.com/kaneda05/iron-rule/blob/main/chr1/B01.py)|
+|1.2|全探索(1)|[A02](https://github.com/kaneda05/iron-rule/blob/main/chr1/A02.py)|[B02](https://github.com/kaneda05/iron-rule/blob/main/chr1/B02.py)|
+|1.3|全探索(2)|[A03](https://github.com/kaneda05/iron-rule/blob/main/chr1/A03.py)|[B03-1](https://github.com/kaneda05/iron-rule/blob/main/chr1/B03-1.py)/[B03-2](https://github.com/kaneda05/iron-rule/blob/main/chr1/B03-2.py)|
+|1.4|２進法|[A04](https://github.com/kaneda05/iron-rule/blob/main/chr1/A04.py)|[B04](https://github.com/kaneda05/iron-rule/blob/main/chr1/B04.py)|
+|1.5|チャレンジ問題|[A05](https://github.com/kaneda05/iron-rule/blob/main/chr1/A05.py)||
 
 ###　コラム
+
 ビット演算とビット全探索
 
 
