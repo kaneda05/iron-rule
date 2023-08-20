@@ -20,9 +20,11 @@
 |:--:|:--:|
 |[スイッチクエリ(1)](https://algo-method.com/tasks/1045)|[コード](https://github.com/kaneda05/algo/blob/main/3/bit/4/7.py)|
 |[スイッチクエリ(2)](https://algo-method.com/tasks/1046)|[コード](https://github.com/kaneda05/algo/blob/main/3/bit/4/8.py)|
+|[スイッチクエリ(3)](https://algo-method.com/tasks/1050)|[コード](https://github.com/kaneda05/algo/blob/main/3/bit/5/4.py)|
 
 
 この2問でビット全探索で必要な条件式が出てくる
 
-- ビット全探索
-
+### ビット全探索
+|問題|解答コード|
+|:--:|:--:|
